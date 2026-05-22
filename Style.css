@@ -1,0 +1,16 @@
+body{
+    background-color: eff6e0;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+h2{ 
+    background-color: rgb(0, 255, 221);
+    font-family:Arial, Helvetica, sans-serif
+}
+ul{ 
+    background-color: rgb(255, 213, 231);
+}
